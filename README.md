@@ -32,10 +32,5 @@ You’ll catch me watching football, shooting hoops, or exploring new cities.
 
 ### 📦 Featured Project
 Check out my first template:
-🔗 [Dark Portfolio – Developer Edition](https://github.com/nefju1/dark-portfolio-dev)  
-Live Demo: [https://idyllic-fairy-4ba784.netlify.app](https://idyllic-fairy-4ba784.netlify.app)
-
----
-
-![Logo](./assets/Logo-compressed.png)
+🔗 [Dark Portfolio – Developer Edition](https://github.com/nefju1/dark-portfolio-dev)
 
