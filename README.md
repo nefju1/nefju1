@@ -1,4 +1,4 @@
-<img width="915" alt="image" src="https://github.com/user-attachments/assets/6704bfd7-6f8d-4b04-b530-2211654564ba" /># 👋 Hey, I'm Nefju
+👋 Hey, I'm Nefju
 
 🎓 Computer Science student at TUM | 💻 Aspiring Fullstack Developer | 🔐 Cybersecurity Enthusiast
 
